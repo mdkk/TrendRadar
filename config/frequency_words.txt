@@ -18,6 +18,9 @@ ChatGPT
 !广告
 !培训
 
+AR
+VR
+
 chatgpt
 openai
 sora
