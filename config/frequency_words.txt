@@ -1,17 +1,24 @@
 发明
 专利
 
-A股
-上证
-深证
-黄金
-大盘
-!预测
-@20
+cursor
+claude
 
-基金
-理财
-股票
+Anthropic
+OpenAI
+Llama
+
+
+DeepSeek
+Qwen
+GLM
+
+字节
+阿里
+Google
+谷歌
+微软
+Microsoft
 
 机器人
 宇树
@@ -19,3 +26,5 @@ A股
 灵犀
 
 增强现实
+虚拟现实
+VR眼镜
